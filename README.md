@@ -5,7 +5,8 @@
 
 [https://zthinker.com/](https://zthinker.com/)
 
-中文文档网址：https://github.com/daichangya/antlr4-doc/#/
+中文文档网址：https://daichangya.github.io/antlr4-doc/#/
+
 
 # ANTLR 4 Documentation
 
